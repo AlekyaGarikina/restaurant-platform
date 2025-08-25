@@ -21,10 +21,6 @@ The website is filled with dummy text where needed.
 
 ## Setup/Installation Requirements
 
-To view the website, 
-* click [Anita's Website](https://marynganga.github.io/Restaurant-Website-Template/)
-or 
-* copy the link https://marynganga.github.io/Restaurant-Website-Template/ paste it to your browser and load it.  
 
 
 ## Known Bugs
